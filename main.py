@@ -1,5 +1,5 @@
 # Prompt the user to think of a number
-print("Think of a number between 0 and 1000, and I'll guess it in mo more thn 10 tries")
+print("Think of a number between 0 and 1000, and I'll guess it in no more than 10 tries")
 # Initialize the search range
 max_number = 1000
 min_number = 0
