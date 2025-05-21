@@ -15,11 +15,11 @@ This Python script is an interactive game where the computer tries to guess a nu
 ## ▶️ How to Run
 
 1. Make sure Python 3 is installed on your system.
-2. Save the script as `guess_number.py`.
+2. Save the script as `main.py`.
 3. Run it using your terminal or command prompt:
 
    ```bash
-   python guess_number.py
+   python main.py
 4. Think of a number and follow the on-screen instructions.
 
 ## ✅ Example Interaction
